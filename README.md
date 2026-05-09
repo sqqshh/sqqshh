@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi, I'm Kumar Sambhav 👋
 
-<!--
-**sqqshh/sqqshh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Deep Learning and ML enthusiast focused on:
+- Computer Vision
+- LLMs
+- Generative AI
+- Applied ML Systems
+- Competitive Machine Learning
 
-Here are some ideas to get you started:
+Currently exploring:
+- Vision-Language Models
+- Diffusion Models
+- Open Source LLMs
+- Multi-modal Learning
+- Efficient Fine-Tuning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# Achievements
+
+🏆 Top 13 — Solana Skill Sprint @ Kaggle  
+🏆 Top 50 — Amazon ML Challenge 2025  
+🏆 Rank 13 — Meesho ML Challenge  
+🥈 Rank 2 — CDIS ML Hackathon @ IIT Kanpur
+
+---
+
+# Featured Projects
+
+## Amazon ML Challenge 2025
+Transformer-based product price prediction using Stella/BGE embeddings, token-level attention pooling, and ensemble learning.
+
+Tech:
+`PyTorch` `Transformers` `Stella-400M` `BGE` `FAISS`
+
+---
+
+## Solana Memecoin Graduation Prediction
+Early-stage token graduation prediction using blockchain transaction analysis, IPFS metadata enrichment, and CatBoost.
+
+Tech:
+`CatBoost` `asyncio` `Feature Engineering` `TF-IDF`
+
+---
+
+## Multi-Task Visual Taxonomy System
+Multi-head EfficientNetV2-based attribute classification pipeline for e-commerce products.
+
+Tech:
+`PyTorch` `EfficientNetV2` `Albumentations`
+
+---
+
+# Tech Stack
+
+### Deep Learning
+PyTorch • Transformers • Diffusion Models • CNNs • ViTs
+
+### ML
+XGBoost • CatBoost • Ensemble Learning • Feature Engineering
+
+### LLMs & GenAI
+RAG • LangChain • LoRA • Quantization • Vector Databases
+
+### Tools
+Git • OpenCV • Pandas • NumPy • scikit-learn
+
+---
+
+# Links
+
+- LinkedIn: https://www.linkedin.com/in/kumar-sambhav-b72b85258
+- Kaggle: https://www.kaggle.com/zzzzgod
