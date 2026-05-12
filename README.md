@@ -27,6 +27,17 @@ Currently exploring:
 
 # Featured Projects
 
+## AI Interview Platform
+Production-style AI-powered interview platform for AI/ML roles that analyzes resumes, GitHub profiles, and job descriptions to conduct adaptive personalized interviews with real-time scoring and voice interaction.
+
+Tech:
+`FastAPI` `React` `Groq` `LLaMA3-70B` `Whisper` `PostgreSQL` `Docker`
+
+Live:
+https://ai-interviewer-dusky-one.vercel.app
+
+---
+
 ## Amazon ML Challenge 2025
 Transformer-based product price prediction using Stella/BGE embeddings, token-level attention pooling, and ensemble learning.
 
