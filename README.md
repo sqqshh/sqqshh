@@ -18,10 +18,10 @@ Currently exploring:
 
 # Achievements
 
-🏆 Top 13 — Solana Skill Sprint @ Kaggle  
-🏆 Top 50 — Amazon ML Challenge 2025  
-🏆 Rank 13 — Meesho ML Challenge  
-🥈 Rank 2 — CDIS ML Hackathon @ IIT Kanpur
+Top 13 — Solana Skill Sprint @ Kaggle  
+Top 50 — Amazon ML Challenge 2025  
+Rank 13 — Meesho ML Challenge  
+Rank 2 — CDIS ML Hackathon @ IIT Kanpur
 
 ---
 
